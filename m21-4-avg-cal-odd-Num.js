@@ -8,7 +8,7 @@
 
 /*
 ******** function taskes an array as parameter
-******** giv me the average of the odd numbers in the arrey
+******** giv me the Average of the odd numbers in the array
 */ 
 
 // const numbers = [ 42, 13, 58, 65, 81, 7 ];
